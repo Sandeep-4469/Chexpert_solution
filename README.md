@@ -10,7 +10,4 @@ $\textbf{Experiment Steps:}$
 3. To improve accuracy, an individual model was considered for each disease:
    - The dataset was further organized by disease.
    - Each model was trained using ResNet101 specifically on images associated with a particular disease.
-
-\[
-\text{End of experiment setup and results.}
-\]
+4. accuracy score for each disease is above 92%
